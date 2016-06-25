@@ -49,3 +49,9 @@
 
 #NPM
 /node_modules
+
+#bower
+/bower_components
+
+#IDEA
+/.idea

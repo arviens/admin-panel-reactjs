@@ -14,4 +14,10 @@ After [NodeJS] installation you need to open command promt and globally install 
 npm install -g babel
 npm install -g babel-cli
 ```
+# Running project:
+After installation step open command prompt in project and to download every required dependency type:
+```sh
+npm install
+```
+
 [NodeJS]: <https://nodejs.org/en/download/>
